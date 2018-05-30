@@ -1,0 +1,18 @@
+{
+  "name": "heroku-pipelines",
+  "description": "A reviews pipeline demo",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
